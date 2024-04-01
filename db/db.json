@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Middleware",
+        "text": "Middleware is a function that has access to the request object, the response object, and the next middleware function in the application's request-response cycle.",
+        "id": "acaafe96-b7db-4aef-a6b3-0db58b5fbe66"
+    },
+    {
+        "title": "Note taker",
+        "text": "Add a note taker",
+        "id": "26957b31-dd16-474b-a059-47c6ca334dda"
+    },
+    {
+        "title": "This is my second note",
+        "text": "Note",
+        "id": "76ae37f5-a13f-43f6-839e-8e8806f5f53d"
+    }
+]
