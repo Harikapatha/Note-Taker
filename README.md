@@ -19,12 +19,13 @@ npm i
 Application is deployed on render.com.
 
 ## Usage
-Click "Get Started" to begin.
-Click on "Note Title" to enter a Title of a new note, then click "Note Text" to enter the note.
-Click "Save Note" to add your note.
-Notes will appear in a list on the left side of the screen.
-Click a particular note to see the note details.
-Click the Trash Can icon to delete a note.
+* In your browser, open the following url: https://note-taker-1fi9.onrender.com
+* Click "Get Started" to begin.
+* Click on "Note Title" to enter a Title of a new note, then click "Note Text" to enter the note.
+* Click "Save Note" to add your note.
+* Notes will appear in a list on the left side of the screen.
+* Click a particular note to see the note details.
+* Click the Trash Can icon to delete a note.
 
 ## Credits
 N/A
@@ -40,5 +41,4 @@ N/A
 
 ## Questions
 To contact me with any questions regarding this project:
-In your browser, open the following url: https://note-taker-1fi9.onrender.com
-Email me at: <harikanap518@gmail.com>
+* And email me at: <harikanap518@gmail.com>
